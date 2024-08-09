@@ -21,8 +21,5 @@ Repositorio del módulo de Lenguaje de Marcas de 1º de DAM del IES Ribera del t
   <li>
     <a href="https://github.com/Olmedo30/Programacion-06-2023-2024">Desarrollo de clases</a>
   </li>
-  <li>
-    <a href="https://github.com/Olmedo30/Programacion-07-2023-2024">Interfaces gráficas</a>
-  </li>
 </ol>
 
